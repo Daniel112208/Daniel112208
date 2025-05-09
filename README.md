@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Daniel Campos</h1>
 
-<p align="center">👨‍💻 Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo web y backend</p>
+<p align="center">👨‍💻 Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo Fullstack</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel112208&label=Profile%20views&color=0e75b6&style=flat" alt="Daniel112208" /> </p>
 
