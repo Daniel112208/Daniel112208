@@ -1,12 +1,13 @@
 <h1 align="center">Hola 👋, soy Daniel Campos</h1>
 
-<p align="center">👨‍💻 Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo fullstack</p>
+<p align="center">👨‍💻 Estudiante de Ingeniería de Sistemas | Apasionado por el desarrollo web y backend</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20views&color=0e75b6&style=flat" alt="tuusuario" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel112208&label=Profile%20views&color=0e75b6&style=flat" alt="Daniel112208" /> </p>
 
 🌱 Actualmente estoy aprendiendo **Spring Boot, React y Docker**  
 💼 Estoy trabajando en un proyecto llamado **IntelliPath**  
 🎯 Me interesa la **Inteligencia Artificial, Backend en Java y Microservicios**  
+📫 Contáctame: **kmpos722@gmail.com**  
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -31,28 +32,25 @@
 <h3>📊 Mis estadísticas de GitHub</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuusuario&show_icons=true&theme=dark&locale=es&layout=compact" alt="tuusuario" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel112208&show_icons=true&theme=dark&locale=es&layout=compact" alt="Daniel112208" /></p>
 
 <br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark&locale=es" alt="tuusuario" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Daniel112208&show_icons=true&theme=dark&locale=es" alt="Daniel112208" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=dark" alt="tuusuario" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel112208&theme=dark" alt="Daniel112208" /></p>
 
 ---
 
 <h3>📫 Conecta conmigo:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/tulinkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/tuusuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="mailto:tuemail@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/email.png" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/daniel-camilo-campos-palacino-18833a329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/dccp_22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
 
 ⭐️ Gracias por visitar mi perfil
-
----
